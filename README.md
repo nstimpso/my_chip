@@ -1,2 +1,2 @@
-# my_chip2
+# my_chip
 efabless
